@@ -21,4 +21,4 @@ I’ve been working on the web in one way or another for two decades now, includ
 
 I blog at [textslashplain](https://textslashplain.com), and previously blogged in other places, including 237 posts on [IEInternals](https://blogs.msdn.microsoft.com/ieinternals) and a smaller number on [Telerik&#8217;s Fiddler blog](https://www.telerik.com/blogs/author/eric-lawrence).
 
-You can also find my answers on [StackOverflow](https:///stackoverflow.com/users/126229/ericlaw) and a partial list of my vulnerability reports at [HackerOne](https://hackerone.com/ericlaw).
+You can also find my answers on [StackOverflow](https:///stackoverflow.com/users/126229/ericlaw) and a partial list of my vulnerability reports at [HackerOne](https://hackerone.com/ericlaw). You can see my commits in Chromium ([here](https://chromium-review.googlesource.com/q/owner:ericlaw%2540microsoft.com) and [here]https://chromium-review.googlesource.com/q/owner:elawrence%2540chromium.org).
