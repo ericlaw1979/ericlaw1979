@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I’m Eric Lawrence ([@ericlaw](https://twitter.com/ericlaw/)). Pronouns: he/him
 
-I’ve been working on the web in one way or another for two decades now, including over a decade at Microsoft. I created Fiddler and a variety of other tools. I spent two years helping bring HTTPS everywhere on the web as a member of the Chrome Security team. In 2018, I returned to Microsoft to again work on networking for the Microsoft Edge team.
+I’ve been working on the web in one way or another for two decades now, including over a decade at Microsoft. I created Fiddler and a variety of other tools. I spent two years helping bring HTTPS everywhere on the web as a member of the Chrome Security team. In 2018, I returned to Microsoft to again work on networking for the Microsoft Edge team, and in 2022 I joined the Microsoft Web Defense team working on SmartScreen and similar protections.
 
 I blog at [textslashplain](https://textslashplain.com), and previously blogged in other places, including 237 posts on [IEInternals](https://blogs.msdn.microsoft.com/ieinternals) and a smaller number on [Telerik&#8217;s Fiddler blog](https://www.telerik.com/blogs/author/eric-lawrence).
 
